@@ -12,10 +12,3 @@ location = input("Where are you located: ")
 to_print = f"Hello {name}, you are {age} years old and live in {location}."
 # print the formatted string
 print(to_print)
-
-"""
-Another method
-
-print('Hello {},you are {} years old,and live in{}.'.format(name,age,location))
-
-"""
